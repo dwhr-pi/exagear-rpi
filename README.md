@@ -50,5 +50,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 There was an error, key is obsoled.
 `curl https://dl.insrt.uk/mirror/exagear/patch.sh | sudo bash` will fix it.
 
-Next read: https://www.raspberry-pi-geek.de/ausgaben/rpg/2018/10/x86-programme-auf-dem-raspi-ausfuehren/
-And other at: https://www.ephesossoftware.com/articles/linux/how-to-install-windows-software-on-raspberry-pi-using-wine.html
+Next read: https://www.raspberry-pi-geek.de/ausgaben/rpg/2018/10/x86-programme-auf-dem-raspi-ausfuehren/  
+And other at: https://www.ephesossoftware.com/articles/linux/how-to-install-windows-software-on-raspberry-pi-using-wine.html  
+https://www.youtube.com/watch?v=g7hFeaAl-oI
+
