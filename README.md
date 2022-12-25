@@ -78,3 +78,6 @@ https://thepigamer.blogspot.com/2021/01/performance-topic-running-x86-games-on.h
 
 https://www.ephesossoftware.com/articles/linux/how-to-install-windows-software-on-raspberry-pi-using-wine.html
 https://www.instructables.com/How-to-Set-Up-Wine-on-Raspberry-Pi-1/
+
+https://www.magpi.de/news/box86-wine-windows-programme-auf-dem-raspberry-pi
+
