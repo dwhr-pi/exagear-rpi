@@ -82,3 +82,57 @@ https://www.instructables.com/How-to-Set-Up-Wine-on-Raspberry-Pi-1/
 
 https://www.magpi.de/news/box86-wine-windows-programme-auf-dem-raspberry-pi
 
+
+
+
+
+
+
+
+## Steam installation in der i868 Umgebung.
+exagear
+arch
+
+apt --fix-broken install
+
+Installiert die notwendigen Depencies in die i868 Umgebung nach, die nicht aus der arch64 Umgebung dem i868 zur Verfügung stehen. 
+Installiert somit in gewisser Weise ein i386 Linux nach... 
+
+Sollte nichts passieren, einfach mal manuell diese nachfolgenden apt's installieren versuchen, spätestens dann sollte Linux den Fehler der fehlenden Systemdateien bemerken und zu dem zuvor genannten fix aufrufen. 
+
+apt-get install apt-transport-https
+apt-get install curl
+apt-get install file
+apt-get install libnss3
+apt-get install policykit-1
+apt-get install python3
+apt-get install python3-apt
+apt-get install xterm
+apt-get install gnome-terminal
+apt-get install konsole
+apt-get install x-terminal-emulator
+apt-get install xz-utils
+apt-get install zenity
+apt-get install 
+apt-get install 
+
+Das nachinstallieren der fehlenden Systemdateien dauert eine Weile.... 
+
+
+
+Db hier geht es jedenfalls weiter: 
+cd Downloads
+dpkg -i steam_latest.deb
+
+Normalerweise fertig.
+
+sudo apt autoremove
+
+it looks like wine32 is missing, you should install it.
+as root, please execute "apt-get install wine32"
+
+
+
+
+
+
