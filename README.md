@@ -1,3 +1,8 @@
+# WinwHQ 
+https://wiki.winehq.org/Debian
+
+
+
 # exagear-rpi
 installing Exagear Desktop on the newer Raspberry Pies
 
