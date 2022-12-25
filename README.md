@@ -1,7 +1,14 @@
 # WinwHQ 
 https://wiki.winehq.org/Debian
 
+```
+sudo dpkg --add-architecture i386 
+```
 
+```
+sudo mkdir -pm755 /etc/apt/keyrings
+sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+```
 
 # exagear-rpi
 installing Exagear Desktop on the newer Raspberry Pies
@@ -59,3 +66,11 @@ Next read: https://www.raspberry-pi-geek.de/ausgaben/rpg/2018/10/x86-programme-a
 And other at: https://www.ephesossoftware.com/articles/linux/how-to-install-windows-software-on-raspberry-pi-using-wine.html  
 https://www.youtube.com/watch?v=g7hFeaAl-oI
 
+
+https://www.instructables.com/How-to-Set-Up-Wine-on-Raspberry-Pi-1/
+Open a new terminal and typ `exagear`
+Then type in `arch`
+
+Open a new terminal and typ `sudo apt-get install wine`
+
+https://thepigamer.blogspot.com/2021/01/performance-topic-running-x86-games-on.html
