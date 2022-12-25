@@ -46,3 +46,6 @@ Now, run `exagear`, and you're in an x86 environment! Make sure to run the follo
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 ```
+
+There was an error, key is obsoled.
+`curl https://dl.insrt.uk/mirror/exagear/patch.sh | sudo bash` will fix it.
