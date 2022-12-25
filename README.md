@@ -74,3 +74,7 @@ Then type in `arch`
 Open a new terminal and typ `sudo apt-get install wine`
 
 https://thepigamer.blogspot.com/2021/01/performance-topic-running-x86-games-on.html
+
+
+https://www.ephesossoftware.com/articles/linux/how-to-install-windows-software-on-raspberry-pi-using-wine.html
+https://www.instructables.com/How-to-Set-Up-Wine-on-Raspberry-Pi-1/
